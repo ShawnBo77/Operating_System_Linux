@@ -31,7 +31,7 @@ head Makefile -n 5
 ```
 sudo make distclean O=build
 ```
-#### 修改 Kernel Configuration
+#### 修改 Kernel Configuration（生成`.config`）
 > 把terminal視窗放到最大
 
 ```
