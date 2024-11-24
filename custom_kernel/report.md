@@ -11,7 +11,7 @@ $ sudo apt-get install git libncurses5-dev libncurses-dev libssl-dev build-essen
 
 ### 2. 取得 kernel source 
 ```terminal
-git clone https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git –depth=1 -b v6.1 –single-branch
+git clone https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git --depth=1 -b v6.1 --single-branch
 ```
 
 ### 3. 查看資料夾資訊 
